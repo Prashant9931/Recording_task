@@ -1,0 +1,45 @@
+This is a conversion b/w client and emp.The clint wnats to a generic function that interats to db and extract info .clint something talks about Formatting  in python.
+cli also talks about something side project,campaion summary and db design .
+Clint also wants unit testing it may be pia-test.
+----something normal talks
+It talks about some methods.
+Inside a current process a  data transfer process and geresizes process and a fom fod .
+It a utility, process and a generic process ,unit process. Emp also add a delete method and a primary id thats follow refrencial intigrity .
+Client more focus on data intigrity part 
+------Working of function
+->The function takes data and trasform into pandas datafrme(may be loading data fast). 
+->A keys class contacts settings campaion ca one to one realtionship.
+->flow of project like
+key class
+         contacts setting
+
+
+-Client donot  want to change output but he wants to code to be more generic, optimal,uniform and more reusability.
+->new db name : NewPalmTest
+
+->Same syntax can only change syntax that required to extract data.
+
+->method where user give campaign id and get info about campaign if no event create one.
+->Unit test need to be done automatically
+->client giving all code for changing and will give back to him for review after change by employee 
+->employee getting error in query he was running on client db, its an error in variable parameters
+
+->client  wants coming to meet monday if there is no snowfall.-employee asked about timing to client and he told to report to Miss Brandy and Miss Kelly
+->After that they discuss about some issues in the office then they told whom and why employee need to report to that day
+->It talks somethig about war room 
+
+It something taks about----
+dummy structure 
+then code on project
+
+some  points about project:
+--------------------------------------
+generalizing code
+maintain referential integrity
+Making it more optimize
+Increase reusability
+Additional features
+---------------------------
+combined excel with formatting using python script
+data transformation using any python tool
+unit test(pia test)                         
